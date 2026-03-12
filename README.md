@@ -1,4 +1,4 @@
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:1a1a2e,100:4a4e69&height=220&section=header&text=Hoang%20Duy&fontSize=50&fontColor=e0e1dd&animation=fadeIn&fontAlignY=32&desc=Senior%20Student%20%7C%20Backend%20Developer&descAlignY=52&descSize=18&descColor=a0a3bd" width="100%" alt="Header">
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:1a1a2e,100:4a4e69&height=220&section=header&text=Tuan%20Anh&fontSize=50&fontColor=e0e1dd&animation=fadeIn&fontAlignY=32&desc=Senior%20Student%20%7C%20Backend%20Developer&descAlignY=52&descSize=18&descColor=a0a3bd" width="100%" alt="Header">
 
 <div align="center">
   <a href="https://git.io/typing-svg">
@@ -7,14 +7,8 @@
 </div>
 
 <div align="center">
-  <a href="https://www.facebook.com/n.di04/">
+  <a href="https://www.facebook.com/n.tuananh04/">
     <img src="https://img.shields.io/badge/Facebook-%231877F2.svg?style=for-the-badge&logo=Facebook&logoColor=white" alt="Facebook">
-  </a>
-  <a href="https://www.linkedin.com/in/hoangduy0308/">
-    <img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn">
-  </a>
-  <a href="https://t.me/hdi0308">
-    <img src="https://img.shields.io/badge/Telegram-%2326A5E4.svg?style=for-the-badge&logo=telegram&logoColor=white" alt="Telegram">
   </a>
 </div>
 
@@ -23,7 +17,8 @@
 ## 👨‍💻 About Me
 
 ```javascript
-const hoangDuy = {
+const tuanAnh = {
+    name: "Nguyen Tuan Anh",
     role: "4th Year CS Student → Backend Developer",
     location: "Vietnam 🇻🇳",
     education: "Information Technology",
@@ -67,12 +62,12 @@ const hoangDuy = {
 ## 📊 GitHub Stats
 
 <div align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=hoangduy0308&theme=tokyonight" alt="GitHub Activity">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=tuananhquadeptrai&theme=tokyonight" alt="GitHub Activity">
 </div>
 
 <div align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=hoangduy0308&theme=tokyonight" height="160">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=hoangduy0308&theme=tokyonight" height="160">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=tuananhquadeptrai&theme=tokyonight" height="160">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=tuananhquadeptrai&theme=tokyonight" height="160">
 </div>
 
 ---
@@ -80,7 +75,7 @@ const hoangDuy = {
 ## 📈 Activity Graph
 
 <div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=hoangduy0308&theme=tokyo-night&hide_border=true&bg_color=1a1a2e&color=9a8c98&line=4a4e69&point=e0e1dd" width="95%" alt="Activity Graph">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=tuananhquadeptrai&theme=tokyo-night&hide_border=true&bg_color=1a1a2e&color=9a8c98&line=4a4e69&point=e0e1dd" width="95%" alt="Activity Graph">
 </div>
 
 ---
@@ -88,13 +83,13 @@ const hoangDuy = {
 ## 🐍 Contribution Snake
 
 <div align="center">
-  <img src="https://raw.githubusercontent.com/hoangduy0308/hoangduy0308/output/github-snake-dark.svg" alt="Snake animation">
+  <img src="https://raw.githubusercontent.com/tuananhquadeptrai/tuananhquadeptrai/output/github-snake-dark.svg" alt="Snake animation">
 </div>
 
 ---
 
 <div align="center">
-  <img src="https://komarev.com/ghpvc/?username=hoangduy0308&style=for-the-badge&color=4a4e69&label=PROFILE+VIEWS" alt="Profile Views">
+  <img src="https://komarev.com/ghpvc/?username=tuananhquadeptrai&style=for-the-badge&color=4a4e69&label=PROFILE+VIEWS" alt="Profile Views">
 </div>
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:4a4e69,100:1a1a2e&height=100&section=footer" width="100%" alt="Footer">
